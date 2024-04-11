@@ -1,0 +1,4136 @@
+[
+  {
+    "followers": 74982056,
+    "genres": [
+      "canadian pop",
+      "pop"
+    ],
+    "id": "1uNFoZAHBGtllmzznpCI3s",
+    "name": "Justin Bieber",
+    "popularity": 87
+  },
+  {
+    "followers": 82948910,
+    "genres": [
+      "canadian hip hop",
+      "canadian pop",
+      "hip hop",
+      "pop rap",
+      "rap"
+    ],
+    "id": "3TVXtAsR1Inumwj472S9r4",
+    "name": "Drake",
+    "popularity": 95
+  },
+  {
+    "followers": 58976100,
+    "genres": [
+      "barbadian pop",
+      "pop",
+      "urban contemporary"
+    ],
+    "id": "5pKCCKE2ajJHZ9KAiaK11H",
+    "name": "Rihanna",
+    "popularity": 87
+  },
+  {
+    "followers": 77584176,
+    "genres": [
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "4q3ewBCX7sLwd24euuV69X",
+    "name": "Bad Bunny",
+    "popularity": 95
+  },
+  {
+    "followers": 95469080,
+    "genres": [
+      "pop"
+    ],
+    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+    "name": "Ariana Grande",
+    "popularity": 87
+  },
+  {
+    "followers": 75522658,
+    "genres": [
+      "canadian contemporary r&b",
+      "canadian pop",
+      "pop"
+    ],
+    "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+    "name": "The Weeknd",
+    "popularity": 93
+  },
+  {
+    "followers": 115853937,
+    "genres": [
+      "pop",
+      "singer-songwriter pop",
+      "uk pop"
+    ],
+    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+    "name": "Ed Sheeran",
+    "popularity": 86
+  },
+  {
+    "followers": 43016990,
+    "genres": [
+      "dfw rap",
+      "melodic rap",
+      "pop",
+      "rap"
+    ],
+    "id": "246dkjvS1zLTtiykXe5h60",
+    "name": "Post Malone",
+    "popularity": 86
+  },
+  {
+    "followers": 52730168,
+    "genres": [
+      "dance pop",
+      "pop"
+    ],
+    "id": "0du5cEVh5yTK9QJze8zA0C",
+    "name": "Bruno Mars",
+    "popularity": 86
+  },
+  {
+    "followers": 43748852,
+    "genres": [
+      "emo rap",
+      "miami hip hop",
+      "rap"
+    ],
+    "id": "15UsOTVnJzReFVN1VCnxy4",
+    "name": "XXXTENTACION",
+    "popularity": 83
+  },
+  {
+    "followers": 41905505,
+    "genres": [
+      "pop"
+    ],
+    "id": "04gDigrS5kc9YWfZHwBETP",
+    "name": "Maroon 5",
+    "popularity": 83
+  },
+  {
+    "followers": 42437798,
+    "genres": [
+      "dance pop",
+      "pop",
+      "uk pop"
+    ],
+    "id": "6M2wZ9GZgrQXHCFfjv46we",
+    "name": "Dua Lipa",
+    "popularity": 85
+  },
+  {
+    "followers": 48621118,
+    "genres": [
+      "permanent wave",
+      "pop"
+    ],
+    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+    "name": "Coldplay",
+    "popularity": 86
+  },
+  {
+    "followers": 51466357,
+    "genres": [
+      "modern rock",
+      "pop",
+      "rock"
+    ],
+    "id": "53XhwfbYqKCa1cC15pYq2q",
+    "name": "Imagine Dragons",
+    "popularity": 85
+  },
+  {
+    "followers": 16260171,
+    "genres": [
+      "pop",
+      "pop r&b"
+    ],
+    "id": "6LuN9FCkKOj5PcnpouEgny",
+    "name": "Khalid",
+    "popularity": 81
+  },
+  {
+    "followers": 79420787,
+    "genres": [
+      "detroit hip hop",
+      "hip hop",
+      "rap"
+    ],
+    "id": "7dGJo4pcD2V6oG8kP0tJRR",
+    "name": "Eminem",
+    "popularity": 88
+  },
+  {
+    "followers": 95000579,
+    "genres": [
+      "pop"
+    ],
+    "id": "06HL4z0CvFAxyc27GXpf02",
+    "name": "Taylor Swift",
+    "popularity": 100
+  },
+  {
+    "followers": 47002332,
+    "genres": [
+      "pop",
+      "post-teen pop"
+    ],
+    "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+    "name": "Selena Gomez",
+    "popularity": 81
+  },
+  {
+    "followers": 53022532,
+    "genres": [
+      "british soul",
+      "pop",
+      "pop soul",
+      "uk pop"
+    ],
+    "id": "4dpARuHxo51G3z768sgnrY",
+    "name": "Adele",
+    "popularity": 83
+  },
+  {
+    "followers": 89637411,
+    "genres": [
+      "art pop",
+      "pop"
+    ],
+    "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+    "name": "Billie Eilish",
+    "popularity": 86
+  },
+  {
+    "followers": 23494752,
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "house",
+      "pop",
+      "pop dance",
+      "progressive house",
+      "uk dance"
+    ],
+    "id": "7CajNmpbOovFoOoasH2HaY",
+    "name": "Calvin Harris",
+    "popularity": 83
+  },
+  {
+    "followers": 49087783,
+    "genres": [
+      "classic rock",
+      "glam rock",
+      "rock"
+    ],
+    "id": "1dfeR4HaWDbWqFHLkxsg1d",
+    "name": "Queen",
+    "popularity": 82
+  },
+  {
+    "followers": 26238559,
+    "genres": [
+      "conscious hip hop",
+      "hip hop",
+      "rap",
+      "west coast rap"
+    ],
+    "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+    "name": "Kendrick Lamar",
+    "popularity": 86
+  },
+  {
+    "followers": 42910774,
+    "genres": [
+      "canadian pop",
+      "pop",
+      "viral pop"
+    ],
+    "id": "7n2wHs1TKAczGzO7Dd2rGr",
+    "name": "Shawn Mendes",
+    "popularity": 80
+  },
+  {
+    "followers": 23486343,
+    "genres": [
+      "pop",
+      "uk pop"
+    ],
+    "id": "2wY79sveU1sp5g7SokKOiI",
+    "name": "Sam Smith",
+    "popularity": 82
+  },
+  {
+    "followers": 30420669,
+    "genres": [
+      "pop"
+    ],
+    "id": "6KImCVD70vtIoJWnq6nGn3",
+    "name": "Harry Styles",
+    "popularity": 83
+  },
+  {
+    "followers": 37978358,
+    "genres": [
+      "reggaeton",
+      "reggaeton colombiano",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+    "name": "J Balvin",
+    "popularity": 83
+  },
+  {
+    "followers": 27402036,
+    "genres": [
+      "australian dance",
+      "australian pop",
+      "pop"
+    ],
+    "id": "5WUlDfRSoLAfcVSX1WnrxN",
+    "name": "Sia",
+    "popularity": 83
+  },
+  {
+    "followers": 5372221,
+    "genres": [
+      "pop",
+      "uk dance",
+      "uk funky"
+    ],
+    "id": "6MDME20pz9RveH9rEXvrOM",
+    "name": "Clean Bandit",
+    "popularity": 71
+  },
+  {
+    "followers": 4846453,
+    "genres": [
+      "hip hop",
+      "pop rap",
+      "r&b",
+      "southern hip hop",
+      "trap",
+      "trap soul"
+    ],
+    "id": "7c0XG5cIJTrrAgEC3ULPiq",
+    "name": "Ty Dolla $ign",
+    "popularity": 78
+  },
+  {
+    "followers": 8792128,
+    "genres": [
+      "dance pop",
+      "edm",
+      "electronic trap",
+      "pop",
+      "pop dance"
+    ],
+    "id": "540vIaP2JwjQb9dm3aArA4",
+    "name": "DJ Snake",
+    "popularity": 76
+  },
+  {
+    "followers": 21250585,
+    "genres": [
+      "electropop",
+      "etherpop",
+      "indie poptimism",
+      "pop"
+    ],
+    "id": "26VFTg2z8YR0cCuwLzESi2",
+    "name": "Halsey",
+    "popularity": 79
+  },
+  {
+    "followers": 25509883,
+    "genres": [
+      "hip hop",
+      "rap",
+      "slap house"
+    ],
+    "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+    "name": "Travis Scott",
+    "popularity": 90
+  },
+  {
+    "followers": 34121839,
+    "genres": [
+      "boy band",
+      "pop",
+      "post-teen pop",
+      "talent show"
+    ],
+    "id": "4AK6F7OLvEQ5QYCBNiQWHq",
+    "name": "One Direction",
+    "popularity": 81
+  },
+  {
+    "followers": 28696283,
+    "genres": [
+      "art pop",
+      "dance pop",
+      "pop"
+    ],
+    "id": "1HY2Jd0NmPuamShAr6KMms",
+    "name": "Lady Gaga",
+    "popularity": 82
+  },
+  {
+    "followers": 22438472,
+    "genres": [
+      "chicago rap",
+      "hip hop",
+      "rap"
+    ],
+    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+    "name": "Kanye West",
+    "popularity": 89
+  },
+  {
+    "followers": 30561662,
+    "genres": [
+      "pop"
+    ],
+    "id": "1McMsnEElThX1knmY4oliG",
+    "name": "Olivia Rodrigo",
+    "popularity": 87
+  },
+  {
+    "followers": 27573677,
+    "genres": [
+      "dance pop",
+      "pop"
+    ],
+    "id": "5cj0lLjcoR7YOSnhnX0Po5",
+    "name": "Doja Cat",
+    "popularity": 86
+  },
+  {
+    "followers": 35191041,
+    "genres": [
+      "brostep",
+      "edm",
+      "pop",
+      "progressive electro house"
+    ],
+    "id": "64KEffDW9EtZ1y2vBYgq8T",
+    "name": "Marshmello",
+    "popularity": 83
+  },
+  {
+    "followers": 11246923,
+    "genres": [
+      "hip hop",
+      "pittsburgh rap",
+      "pop rap",
+      "rap",
+      "southern hip hop",
+      "trap"
+    ],
+    "id": "137W8MRPWKqSmrBGDBFSop",
+    "name": "Wiz Khalifa",
+    "popularity": 79
+  },
+  {
+    "followers": 31636314,
+    "genres": [
+      "chicago rap",
+      "melodic rap",
+      "rap"
+    ],
+    "id": "4MCBfE4596Uoi2O4DtmEMz",
+    "name": "Juice WRLD",
+    "popularity": 85
+  },
+  {
+    "followers": 34146006,
+    "genres": [
+      "latin hip hop",
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "4VMYDCV2IEDYJArk749S6m",
+    "name": "Daddy Yankee",
+    "popularity": 83
+  },
+  {
+    "followers": 20543549,
+    "genres": [
+      "pop"
+    ],
+    "id": "69GGBxA162lTqCwzJG5jLp",
+    "name": "The Chainsmokers",
+    "popularity": 78
+  },
+  {
+    "followers": 71511568,
+    "genres": [
+      "k-pop",
+      "k-pop boy group",
+      "pop"
+    ],
+    "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+    "name": "BTS",
+    "popularity": 85
+  },
+  {
+    "followers": 22651425,
+    "genres": [
+      "garage rock",
+      "modern rock",
+      "permanent wave",
+      "rock",
+      "sheffield indie"
+    ],
+    "id": "7Ln80lUS6He07XvHI8qqHH",
+    "name": "Arctic Monkeys",
+    "popularity": 84
+  },
+  {
+    "followers": 30325853,
+    "genres": [
+      "hip pop",
+      "pop",
+      "queens hip hop",
+      "rap"
+    ],
+    "id": "0hCNtLu0JehylgoiP8L4Gh",
+    "name": "Nicki Minaj",
+    "popularity": 84
+  },
+  {
+    "followers": 16185088,
+    "genres": [
+      "pop",
+      "r&b",
+      "rap"
+    ],
+    "id": "7tYKF4w9nC0nq9CsPZTHyP",
+    "name": "SZA",
+    "popularity": 87
+  },
+  {
+    "followers": 22798784,
+    "genres": [
+      "pop",
+      "rap"
+    ],
+    "id": "4kYSro6naA4h99UJvo89HB",
+    "name": "Cardi B",
+    "popularity": 77
+  },
+  {
+    "followers": 8740140,
+    "genres": [
+      "dance pop",
+      "pop"
+    ],
+    "id": "64M6ah0SkkRsnPGtGiRAbb",
+    "name": "Bebe Rexha",
+    "popularity": 78
+  },
+  {
+    "followers": 6342810,
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "moombahton",
+      "pop",
+      "pop dance"
+    ],
+    "id": "738wLrAtLtCtFOLvQBXOXp",
+    "name": "Major Lazer",
+    "popularity": 74
+  },
+  {
+    "followers": 11443625,
+    "genres": [
+      "hip hop",
+      "north carolina hip hop",
+      "pop rap",
+      "rap",
+      "trap"
+    ],
+    "id": "4r63FhuTkUYltbVAg5TQnk",
+    "name": "DaBaby",
+    "popularity": 77
+  },
+  {
+    "followers": 11496874,
+    "genres": [
+      "pop"
+    ],
+    "id": "1zNqDE7qDGCsyzJwohVaoX",
+    "name": "Anne-Marie",
+    "popularity": 76
+  },
+  {
+    "followers": 21939953,
+    "genres": [
+      "pop",
+      "viral pop"
+    ],
+    "id": "6VuMaDnrHyPL1p4EHjYLi7",
+    "name": "Charlie Puth",
+    "popularity": 79
+  },
+  {
+    "followers": 22939879,
+    "genres": [
+      "pop",
+      "uk pop"
+    ],
+    "id": "5ZsFI1h6hIdQRw2ti0hz81",
+    "name": "ZAYN",
+    "popularity": 73
+  },
+  {
+    "followers": 24188323,
+    "genres": [
+      "modern rock",
+      "pop",
+      "pov: indie",
+      "rock"
+    ],
+    "id": "3YQKmKGau1PzlVlkL1iodx",
+    "name": "Twenty One Pilots",
+    "popularity": 77
+  },
+  {
+    "followers": 7089687,
+    "genres": [
+      "atl hip hop",
+      "melodic rap",
+      "rap",
+      "trap"
+    ],
+    "id": "0VRj0yCOv2FXJNP47XQnx5",
+    "name": "Quavo",
+    "popularity": 76
+  },
+  {
+    "followers": 20407780,
+    "genres": [
+      "alternative rock",
+      "funk metal",
+      "funk rock",
+      "permanent wave",
+      "rock"
+    ],
+    "id": "0L8ExT028jH3ddEcZwqJJ5",
+    "name": "Red Hot Chili Peppers",
+    "popularity": 81
+  },
+  {
+    "followers": 30803796,
+    "genres": [
+      "pop"
+    ],
+    "id": "6jJ0s89eD6GaHleKKya26X",
+    "name": "Katy Perry",
+    "popularity": 82
+  },
+  {
+    "followers": 15802315,
+    "genres": [
+      "atl hip hop",
+      "hip hop",
+      "rap"
+    ],
+    "id": "1URnnhqYAYcrqrcwql10ft",
+    "name": "21 Savage",
+    "popularity": 88
+  },
+  {
+    "followers": 8808625,
+    "genres": [
+      "east coast hip hop",
+      "gangster rap",
+      "hip hop",
+      "pop rap",
+      "rap"
+    ],
+    "id": "3nFkdlSjzX9mRTtwJOzDYB",
+    "name": "JAY-Z",
+    "popularity": 81
+  },
+  {
+    "followers": 27774932,
+    "genres": [
+      "australian rock",
+      "hard rock",
+      "rock"
+    ],
+    "id": "711MCceyCBcFnzjGY4Q7Un",
+    "name": "AC/DC",
+    "popularity": 78
+  },
+  {
+    "followers": 6009771,
+    "genres": [
+      "complextro",
+      "edm",
+      "german techno",
+      "pop",
+      "pop dance"
+    ],
+    "id": "2qxJFvFYMEDqd7ui6kSAcq",
+    "name": "Zedd",
+    "popularity": 72
+  },
+  {
+    "followers": 11925082,
+    "genres": [
+      "canadian contemporary r&b",
+      "canadian pop",
+      "pop"
+    ],
+    "id": "2wUjUUtkb5lvLKcGKsKqsR",
+    "name": "Alessia Cara",
+    "popularity": 72
+  },
+  {
+    "followers": 23274149,
+    "genres": [
+      "dance pop",
+      "edm",
+      "pop",
+      "pop dance"
+    ],
+    "id": "1vCWHaC5f2uS3yhpwWbIA6",
+    "name": "Avicii",
+    "popularity": 78
+  },
+  {
+    "followers": 2140100,
+    "genres": [
+      "pop rap",
+      "seattle hip hop"
+    ],
+    "id": "3JhNCzhSMTxs9WLGJJxWOY",
+    "name": "Macklemore",
+    "popularity": 75
+  },
+  {
+    "followers": 12490652,
+    "genres": [
+      "lgbtq+ hip hop"
+    ],
+    "id": "7jVv8c5Fj3E9VhNjxT4snq",
+    "name": "Lil Nas X",
+    "popularity": 74
+  },
+  {
+    "followers": 38120813,
+    "genres": [
+      "puerto rican pop",
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "1i8SpTcr7yvPOmcqrbnVXY",
+    "name": "Ozuna",
+    "popularity": 84
+  },
+  {
+    "followers": 22146083,
+    "genres": [
+      "conscious hip hop",
+      "hip hop",
+      "north carolina hip hop",
+      "rap"
+    ],
+    "id": "6l3HvQ5sa6mXTsMTB19rO5",
+    "name": "J. Cole",
+    "popularity": 85
+  },
+  {
+    "followers": 11997893,
+    "genres": [
+      "pop",
+      "uk pop"
+    ],
+    "id": "4GNC7GD6oZMSxPGyXy4MNB",
+    "name": "Lewis Capaldi",
+    "popularity": 78
+  },
+  {
+    "followers": 26493679,
+    "genres": [
+      "hard rock",
+      "metal",
+      "old school thrash",
+      "rock",
+      "thrash metal"
+    ],
+    "id": "2ye2Wgw4gimLv2eAKyk1NB",
+    "name": "Metallica",
+    "popularity": 79
+  },
+  {
+    "followers": 11146000,
+    "genres": [
+      "cloud rap",
+      "emo rap",
+      "lgbtq+ hip hop"
+    ],
+    "id": "2kCcBybjl3SAtIcwdWpUe3",
+    "name": "Lil Peep",
+    "popularity": 80
+  },
+  {
+    "followers": 7741336,
+    "genres": [
+      "dance pop",
+      "pop"
+    ],
+    "id": "6LqNN22kT3074XbTVUrhzX",
+    "name": "Kesha",
+    "popularity": 74
+  },
+  {
+    "followers": 15767839,
+    "genres": [
+      "dutch edm",
+      "edm",
+      "pop",
+      "pop dance",
+      "progressive house"
+    ],
+    "id": "60d24wfXkVzDSfLS6hyCjZ",
+    "name": "Martin Garrix",
+    "popularity": 73
+  },
+  {
+    "followers": 5308910,
+    "genres": [
+      "folk-pop",
+      "modern rock",
+      "stomp and holler"
+    ],
+    "id": "16oZKvXb6WkQlVAjwo2Wbg",
+    "name": "The Lumineers",
+    "popularity": 76
+  },
+  {
+    "followers": 26459630,
+    "genres": [
+      "pop",
+      "post-teen pop"
+    ],
+    "id": "6S2OmqARrzebs0tKUEyXyp",
+    "name": "Demi Lovato",
+    "popularity": 76
+  },
+  {
+    "followers": 9152168,
+    "genres": [
+      "viral pop"
+    ],
+    "id": "3MZsBdqDrRTJihTHQrO6Dq",
+    "name": "Joji",
+    "popularity": 78
+  },
+  {
+    "followers": 11155459,
+    "genres": [
+      "latin pop",
+      "puerto rican pop"
+    ],
+    "id": "4V8Sr092TqfHkfAA5fXXqG",
+    "name": "Luis Fonsi",
+    "popularity": 71
+  },
+  {
+    "followers": 18632341,
+    "genres": [
+      "grunge",
+      "permanent wave",
+      "rock"
+    ],
+    "id": "6olE6TJLqED3rqDCT0FyPh",
+    "name": "Nirvana",
+    "popularity": 79
+  },
+  {
+    "followers": 9747205,
+    "genres": [
+      "electro",
+      "filter house",
+      "rock"
+    ],
+    "id": "4tZwfgrHOc3mvqYlEYSvVi",
+    "name": "Daft Punk",
+    "popularity": 78
+  },
+  {
+    "followers": 14534641,
+    "genres": [
+      "modern alternative rock",
+      "modern rock",
+      "pop",
+      "pov: indie"
+    ],
+    "id": "77SW9BnxLY8rJ0RciFqkHh",
+    "name": "The Neighbourhood",
+    "popularity": 82
+  },
+  {
+    "followers": 4331845,
+    "genres": [
+      "dance pop",
+      "pop"
+    ],
+    "id": "2RdwBSPQiwcmiDo9kixcl8",
+    "name": "Pharrell Williams",
+    "popularity": 76
+  },
+  {
+    "followers": 6281420,
+    "genres": [
+      "rap"
+    ],
+    "id": "0iEtIxbK0KxaSlF7G42ZOp",
+    "name": "Metro Boomin",
+    "popularity": 86
+  },
+  {
+    "followers": 3354130,
+    "genres": [
+      "r&b"
+    ],
+    "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+    "name": "Giveon",
+    "popularity": 75
+  },
+  {
+    "followers": 5108850,
+    "genres": [
+      "pop"
+    ],
+    "id": "0ZED1XzwlLHW4ZaG4lOT6m",
+    "name": "Julia Michaels",
+    "popularity": 72
+  },
+  {
+    "followers": 3336428,
+    "genres": [
+      "atl hip hop",
+      "hip hop",
+      "pop rap",
+      "rap",
+      "trap"
+    ],
+    "id": "4DdkRBBYG6Yk9Ka8tdJ9BW",
+    "name": "Offset",
+    "popularity": 78
+  },
+  {
+    "followers": 2627051,
+    "genres": [
+      "pop rap",
+      "seattle hip hop"
+    ],
+    "id": "5BcAKTbp20cv7tC5VqPFoC",
+    "name": "Macklemore & Ryan Lewis",
+    "popularity": 72
+  },
+  {
+    "followers": 5514163,
+    "genres": [
+      "metropopolis",
+      "modern rock",
+      "pop"
+    ],
+    "id": "7EQ0qTo7fWT7DPxmxtSYEc",
+    "name": "Bastille",
+    "popularity": 72
+  },
+  {
+    "followers": 10782129,
+    "genres": [
+      "hip hop",
+      "miami hip hop",
+      "pop rap",
+      "rap"
+    ],
+    "id": "0QHgL1lAIqAw0HtD7YldmP",
+    "name": "DJ Khaled",
+    "popularity": 74
+  },
+  {
+    "followers": 7964139,
+    "genres": [
+      "dance pop",
+      "pop"
+    ],
+    "id": "1l7ZsJRRS8wlW3WfJfPfNS",
+    "name": "Christina Aguilera",
+    "popularity": 75
+  },
+  {
+    "followers": 7092684,
+    "genres": [
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "6nVcHLIgY5pE2YCl8ubca1",
+    "name": "Jhayco",
+    "popularity": 81
+  },
+  {
+    "followers": 9243660,
+    "genres": [
+      "atl hip hop",
+      "atl trap",
+      "gangster rap",
+      "melodic rap",
+      "rap",
+      "trap"
+    ],
+    "id": "50co4Is1HCEo8bhOyUWKpn",
+    "name": "Young Thug",
+    "popularity": 82
+  },
+  {
+    "followers": 4860565,
+    "genres": [
+      "canadian contemporary r&b"
+    ],
+    "id": "20wkVLutqVOYrc0kxFs7rA",
+    "name": "Daniel Caesar",
+    "popularity": 78
+  },
+  {
+    "followers": 21571,
+    "genres": [
+      "pop rap"
+    ],
+    "id": "4myTppRgh0rojLxx8RycOp",
+    "name": "Ryan Lewis",
+    "popularity": 72
+  },
+  {
+    "followers": 6242774,
+    "genres": [
+      "classic rock",
+      "country rock",
+      "rock",
+      "southern rock",
+      "swamp rock"
+    ],
+    "id": "3IYUhFvPQItj6xySrBmZkd",
+    "name": "Creedence Clearwater Revival",
+    "popularity": 77
+  },
+  {
+    "followers": 14323833,
+    "genres": [
+      "hip hop",
+      "new orleans rap",
+      "pop rap",
+      "rap",
+      "trap"
+    ],
+    "id": "55Aa2cqylxrFIXC767Z865",
+    "name": "Lil Wayne",
+    "popularity": 84
+  },
+  {
+    "followers": 36598654,
+    "genres": [
+      "pop",
+      "r&b"
+    ],
+    "id": "6vWDO969PvNqNYHIOW5v0m",
+    "name": "Beyonc\u00e9",
+    "popularity": 83
+  },
+  {
+    "followers": 5447942,
+    "genres": [
+      "pop"
+    ],
+    "id": "6ydoSd3N2mwgwBHtF6K7eX",
+    "name": "Calum Scott",
+    "popularity": 73
+  },
+  {
+    "followers": 1457364,
+    "genres": [
+      "dance pop",
+      "danish pop",
+      "electropop",
+      "pop dance"
+    ],
+    "id": "0bdfiayQAKewqEvaU6rXCv",
+    "name": "M\u00d8",
+    "popularity": 67
+  },
+  {
+    "followers": 32240918,
+    "genres": [
+      "dance pop",
+      "pop"
+    ],
+    "id": "4nDoRrQiYLoBzwC5BhVJzF",
+    "name": "Camila Cabello",
+    "popularity": 77
+  },
+  {
+    "followers": 8450109,
+    "genres": [
+      "edm",
+      "pop",
+      "pop dance",
+      "tropical house"
+    ],
+    "id": "23fqKkggKUBHNkbKtXEls4",
+    "name": "Kygo",
+    "popularity": 75
+  },
+  {
+    "followers": 13337668,
+    "genres": [
+      "brooklyn drill",
+      "rap"
+    ],
+    "id": "0eDvMgVFoNV3TpwtrVCoTj",
+    "name": "Pop Smoke",
+    "popularity": 79
+  },
+  {
+    "followers": 16048653,
+    "genres": [
+      "atl hip hop",
+      "atl trap",
+      "rap",
+      "trap"
+    ],
+    "id": "5f7VJjfbwm532GiveGC0ZK",
+    "name": "Lil Baby",
+    "popularity": 84
+  },
+  {
+    "followers": 7717636,
+    "genres": [
+      "kentucky hip hop",
+      "r&b",
+      "rap"
+    ],
+    "id": "2EMAnMvWE2eb56ToJVfCWs",
+    "name": "Bryson Tiller",
+    "popularity": 77
+  },
+  {
+    "followers": 10080842,
+    "genres": [
+      "melodic rap",
+      "rap",
+      "trap"
+    ],
+    "id": "757aE44tKEUQEqRuT6GnEB",
+    "name": "Roddy Ricch",
+    "popularity": 75
+  },
+  {
+    "followers": 42288431,
+    "genres": [
+      "reggaeton",
+      "reggaeton colombiano",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "790FomKkXshlbRYZFtlgla",
+    "name": "KAROL G",
+    "popularity": 88
+  },
+  {
+    "followers": 10356615,
+    "genres": [
+      "dance pop",
+      "miami hip hop",
+      "pop"
+    ],
+    "id": "0TnOYISbd1XYRBk9myaseg",
+    "name": "Pitbull",
+    "popularity": 80
+  },
+  {
+    "followers": 24913462,
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "post-grunge",
+      "rap metal",
+      "rock"
+    ],
+    "id": "6XyY86QOPPrYVGvF9ch6wz",
+    "name": "Linkin Park",
+    "popularity": 83
+  },
+  {
+    "followers": 6331348,
+    "genres": [
+      "atl hip hop",
+      "melodic rap",
+      "rap",
+      "trap"
+    ],
+    "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+    "name": "Gunna",
+    "popularity": 83
+  },
+  {
+    "followers": 26545790,
+    "genres": [
+      "big room",
+      "dance pop",
+      "edm",
+      "pop",
+      "pop dance"
+    ],
+    "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+    "name": "David Guetta",
+    "popularity": 85
+  },
+  {
+    "followers": 10712239,
+    "genres": [
+      "g funk",
+      "gangster rap",
+      "hip hop",
+      "pop rap",
+      "rap",
+      "west coast rap"
+    ],
+    "id": "7hJcb9fa4alzcOq3EaNPoG",
+    "name": "Snoop Dogg",
+    "popularity": 80
+  },
+  {
+    "followers": 16593690,
+    "genres": [
+      "piano rock",
+      "pop"
+    ],
+    "id": "5Pwc4xIPtQLFEnJriah9YJ",
+    "name": "OneRepublic",
+    "popularity": 80
+  },
+  {
+    "followers": 30359431,
+    "genres": [
+      "art pop",
+      "pop"
+    ],
+    "id": "00FQb4jTyendYWaN8pK0wa",
+    "name": "Lana Del Rey",
+    "popularity": 88
+  },
+  {
+    "followers": 73903,
+    "genres": [
+      "pop edm"
+    ],
+    "id": "4lDBihdpMlOalxy1jkUbPl",
+    "name": "Grey",
+    "popularity": 63
+  },
+  {
+    "followers": 5986200,
+    "genres": [
+      "conscious hip hop",
+      "hip hop",
+      "pop rap",
+      "rap"
+    ],
+    "id": "4xRYI6VqpkE3UwrDrAZL8L",
+    "name": "Logic",
+    "popularity": 72
+  },
+  {
+    "followers": 22850335,
+    "genres": [
+      "pop"
+    ],
+    "id": "5YGY8feqx7naU7z4HrwZM6",
+    "name": "Miley Cyrus",
+    "popularity": 82
+  },
+  {
+    "followers": 5439546,
+    "genres": [
+      "contemporary country",
+      "country",
+      "country pop",
+      "country road",
+      "modern country rock"
+    ],
+    "id": "3b8QkneNDz4JHKKKlLgYZg",
+    "name": "Florida Georgia Line",
+    "popularity": 71
+  },
+  {
+    "followers": 10473484,
+    "genres": [
+      "pop",
+      "scandipop",
+      "swedish electropop",
+      "swedish pop"
+    ],
+    "id": "1Xylc3o4UrD53lo9CvFvVg",
+    "name": "Zara Larsson",
+    "popularity": 75
+  },
+  {
+    "followers": 15483738,
+    "genres": [
+      "atl hip hop",
+      "hip hop",
+      "rap",
+      "southern hip hop",
+      "trap"
+    ],
+    "id": "1RyvyyTE3xzB2ZywiAwp0i",
+    "name": "Future",
+    "popularity": 87
+  },
+  {
+    "followers": 8928577,
+    "genres": [
+      "pop"
+    ],
+    "id": "5p7f24Rk5HkUZsaS3BLG5F",
+    "name": "Hailee Steinfeld",
+    "popularity": 67
+  },
+  {
+    "followers": 12021696,
+    "genres": [
+      "dance pop",
+      "pop"
+    ],
+    "id": "07YZf4WDAMNwqr4jfgOZ8y",
+    "name": "Jason Derulo",
+    "popularity": 76
+  },
+  {
+    "followers": 15846964,
+    "genres": [
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "329e4yvIujISKGKz1BZZbO",
+    "name": "Farruko",
+    "popularity": 80
+  },
+  {
+    "followers": 3049705,
+    "genres": [
+      "dance pop",
+      "pop",
+      "uk pop"
+    ],
+    "id": "4ScCswdRlyA23odg9thgIO",
+    "name": "Jess Glynne",
+    "popularity": 70
+  },
+  {
+    "followers": 1914377,
+    "genres": [
+      "melodic rap",
+      "rap",
+      "trap"
+    ],
+    "id": "1zNqQNIdeOUZHb8zbZRFMX",
+    "name": "Swae Lee",
+    "popularity": 78
+  },
+  {
+    "followers": 4568728,
+    "genres": [
+      "dance pop",
+      "dancehall",
+      "pop",
+      "pop rap"
+    ],
+    "id": "3Isy6kedDrgPYoTS1dazA9",
+    "name": "Sean Paul",
+    "popularity": 77
+  },
+  {
+    "followers": 30433153,
+    "genres": [
+      "glam metal",
+      "hard rock",
+      "rock"
+    ],
+    "id": "3qm84nBOXUEQ2vnTfUTTFC",
+    "name": "Guns N' Roses",
+    "popularity": 77
+  },
+  {
+    "followers": 2775985,
+    "genres": [
+      "belgian edm",
+      "edm",
+      "pop dance",
+      "tropical house"
+    ],
+    "id": "7f5Zgnp2spUuuzKplmRkt7",
+    "name": "Lost Frequencies",
+    "popularity": 75
+  },
+  {
+    "followers": 4209300,
+    "genres": [
+      "alt z",
+      "pop"
+    ],
+    "id": "45dkTj5sMRSjrmBSBeiHym",
+    "name": "Tate McRae",
+    "popularity": 83
+  },
+  {
+    "followers": 766218,
+    "genres": [
+      "pop rap"
+    ],
+    "id": "6MPCFvOQv5cIGfw3jODMF0",
+    "name": "Internet Money",
+    "popularity": 66
+  },
+  {
+    "followers": 3539825,
+    "genres": [
+      "dance pop",
+      "metropopolis",
+      "pop",
+      "swedish electropop",
+      "swedish pop",
+      "swedish synthpop"
+    ],
+    "id": "4NHQUGzhtTLFvgF5SZesLK",
+    "name": "Tove Lo",
+    "popularity": 71
+  },
+  {
+    "followers": 26732141,
+    "genres": [
+      "british invasion",
+      "classic rock",
+      "merseybeat",
+      "psychedelic rock",
+      "rock"
+    ],
+    "id": "3WrFJ7ztbogyGnTHbHJFl2",
+    "name": "The Beatles",
+    "popularity": 83
+  },
+  {
+    "followers": 19681276,
+    "genres": [
+      "puerto rican pop",
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "1mcTU81TzQhprhouKaTkpq",
+    "name": "Rauw Alejandro",
+    "popularity": 85
+  },
+  {
+    "followers": 13379387,
+    "genres": [
+      "colombian pop",
+      "reggaeton",
+      "reggaeton colombiano",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "0tmwSHipWxN12fsoLcFU3B",
+    "name": "Manuel Turizo",
+    "popularity": 80
+  },
+  {
+    "followers": 11083819,
+    "genres": [
+      "alternative hip hop",
+      "modern rock",
+      "rock"
+    ],
+    "id": "3AA28KZvwAUcZuOKwyblJQ",
+    "name": "Gorillaz",
+    "popularity": 76
+  },
+  {
+    "followers": 1863377,
+    "genres": [
+      "german pop",
+      "modern rock"
+    ],
+    "id": "1hzfo8twXdOegF3xireCYs",
+    "name": "Milky Chance",
+    "popularity": 69
+  },
+  {
+    "followers": 7015895,
+    "genres": [
+      "r&b",
+      "rap"
+    ],
+    "id": "3Y7RZ31TRPVadSFVy1o8os",
+    "name": "H.E.R.",
+    "popularity": 73
+  },
+  {
+    "followers": 263856,
+    "genres": [
+      "edm"
+    ],
+    "id": "3v6Ji4uoWtKRkhuDUaxi9n",
+    "name": "Dynoro",
+    "popularity": 63
+  },
+  {
+    "followers": 9545835,
+    "genres": [
+      "dance pop",
+      "pop",
+      "urban contemporary"
+    ],
+    "id": "4iHNK0tOyZPYnBU7nGAgpQ",
+    "name": "Mariah Carey",
+    "popularity": 81
+  },
+  {
+    "followers": 237227,
+    "genres": [
+      "hollywood"
+    ],
+    "id": "4VIvfOurcf0vuLRxLkGnIG",
+    "name": "Bradley Cooper",
+    "popularity": 66
+  },
+  {
+    "followers": 3777075,
+    "genres": [
+      "indietronica",
+      "modern alternative rock",
+      "modern rock",
+      "rock"
+    ],
+    "id": "7gP3bB2nilZXLfPHJhMdvc",
+    "name": "Foster The People",
+    "popularity": 68
+  },
+  {
+    "followers": 11330104,
+    "genres": [
+      "europop",
+      "swedish pop"
+    ],
+    "id": "0LcJLqbBmaGUft1e9Mm8HV",
+    "name": "ABBA",
+    "popularity": 77
+  },
+  {
+    "followers": 2783903,
+    "genres": [
+      "album rock",
+      "classic rock",
+      "hard rock",
+      "mellow gold",
+      "rock",
+      "soft rock",
+      "yacht rock"
+    ],
+    "id": "0PFtn5NtBbbUNbU9EAmIWF",
+    "name": "TOTO",
+    "popularity": 70
+  },
+  {
+    "followers": 8118230,
+    "genres": [
+      "brostep",
+      "complextro",
+      "edm",
+      "electro",
+      "pop dance"
+    ],
+    "id": "5he5w2lnU9x7JFhnwcekXX",
+    "name": "Skrillex",
+    "popularity": 74
+  },
+  {
+    "followers": 3501940,
+    "genres": [
+      "pop rap",
+      "rap",
+      "trap"
+    ],
+    "id": "4Gso3d4CscCijv0lmajZWs",
+    "name": "Don Toliver",
+    "popularity": 79
+  },
+  {
+    "followers": 698764,
+    "genres": [
+      "australian hip hop"
+    ],
+    "id": "1uU7g3DNSbsu0QjSEqZtEd",
+    "name": "Masked Wolf",
+    "popularity": 62
+  },
+  {
+    "followers": 34036807,
+    "genres": [
+      "reggaeton",
+      "reggaeton flow",
+      "trap boricua",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "2R21vXR83lH98kGeO99Y66",
+    "name": "Anuel AA",
+    "popularity": 85
+  },
+  {
+    "followers": 1542535,
+    "genres": [
+      "g funk",
+      "gangster rap",
+      "hardcore hip hop",
+      "hip hop",
+      "west coast rap"
+    ],
+    "id": "1Oa0bMld0A3u5OTYfMzp5h",
+    "name": "Nate Dogg",
+    "popularity": 73
+  },
+  {
+    "followers": 4590389,
+    "genres": [
+      "new jersey rap",
+      "pop rap",
+      "rap",
+      "southern hip hop",
+      "trap"
+    ],
+    "id": "6PXS4YHDkKvl1wkIl4V8DL",
+    "name": "Fetty Wap",
+    "popularity": 68
+  },
+  {
+    "followers": 5270394,
+    "genres": [
+      "hip hop",
+      "pop rap",
+      "rap",
+      "southern hip hop",
+      "trap"
+    ],
+    "id": "6vXTefBL93Dj5IqAWq6OTv",
+    "name": "French Montana",
+    "popularity": 72
+  },
+  {
+    "followers": 1015416,
+    "genres": [
+      "alt z",
+      "pop",
+      "transpop"
+    ],
+    "id": "3Xt3RrJMFv5SZkCfUE8C1J",
+    "name": "Kim Petras",
+    "popularity": 73
+  },
+  {
+    "followers": 1427356,
+    "genres": [
+      "afrofuturism",
+      "alternative r&b",
+      "atl hip hop",
+      "neo soul",
+      "r&b"
+    ],
+    "id": "6ueGR6SWhUJfvEhqkvMsVs",
+    "name": "Janelle Mon\u00e1e",
+    "popularity": 65
+  },
+  {
+    "followers": 1088057,
+    "genres": [
+      "pop"
+    ],
+    "id": "5CiGnKThu5ctn9pBxv7DGa",
+    "name": "benny blanco",
+    "popularity": 68
+  },
+  {
+    "followers": 3421048,
+    "genres": [
+      "baroque pop",
+      "metropopolis"
+    ],
+    "id": "5nCi3BB41mBaMH9gfr6Su0",
+    "name": "fun.",
+    "popularity": 64
+  },
+  {
+    "followers": 7713816,
+    "genres": [
+      "hip hop",
+      "philly rap",
+      "pop rap",
+      "rap",
+      "southern hip hop",
+      "trap"
+    ],
+    "id": "20sxb77xiYeusSH8cVdatc",
+    "name": "Meek Mill",
+    "popularity": 73
+  },
+  {
+    "followers": 5186618,
+    "genres": [
+      "canadian pop",
+      "dance pop",
+      "pop"
+    ],
+    "id": "6sFIWsNpZYqfjUpaCgueju",
+    "name": "Carly Rae Jepsen",
+    "popularity": 70
+  },
+  {
+    "followers": 3425451,
+    "genres": [
+      "canadian hip hop",
+      "canadian trap",
+      "melodic rap",
+      "rap",
+      "trap"
+    ],
+    "id": "7rkW85dBwwrJtlHRDkJDAC",
+    "name": "NAV",
+    "popularity": 72
+  },
+  {
+    "followers": 2594772,
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "moombahton",
+      "pop dance"
+    ],
+    "id": "5fMUXHkw8R8eOP2RNVYEZX",
+    "name": "Diplo",
+    "popularity": 75
+  },
+  {
+    "followers": 3764260,
+    "genres": [
+      "irish rock",
+      "pop rock",
+      "rock"
+    ],
+    "id": "7t0rwkOPGlDPEhaOcVtOt9",
+    "name": "The Cranberries",
+    "popularity": 72
+  },
+  {
+    "followers": 9932149,
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "rap metal",
+      "rock"
+    ],
+    "id": "5eAWCfyUhZtHHtBdNk56l1",
+    "name": "System Of A Down",
+    "popularity": 77
+  },
+  {
+    "followers": 229957,
+    "genres": [
+      "pop dance",
+      "pop edm",
+      "slap house",
+      "uk dance"
+    ],
+    "id": "4ofCBoyEiGSePFAG500xev",
+    "name": "Regard",
+    "popularity": 65
+  },
+  {
+    "followers": 6945205,
+    "genres": [
+      "hip hop",
+      "pop rap",
+      "rap",
+      "trap"
+    ],
+    "id": "5LHRHt1k9lMyONurDHEdrp",
+    "name": "Tyga",
+    "popularity": 77
+  },
+  {
+    "followers": 135895,
+    "genres": [
+      "reggaeton"
+    ],
+    "id": "5bv5RplEOwdCvhq0EILh9E",
+    "name": "Lucenzo",
+    "popularity": 65
+  },
+  {
+    "followers": 5293652,
+    "genres": [
+      "album rock",
+      "classic rock",
+      "hard rock",
+      "heartland rock",
+      "mellow gold",
+      "rock",
+      "soft rock"
+    ],
+    "id": "0rvjqX7ttXeg3mTy8Xscbt",
+    "name": "Journey",
+    "popularity": 71
+  },
+  {
+    "followers": 1087354,
+    "genres": [
+      "edm",
+      "electro house",
+      "pop dance"
+    ],
+    "id": "1HxJeLhIuegM3KgvPn8sTa",
+    "name": "Jack \u00dc",
+    "popularity": 56
+  },
+  {
+    "followers": 13108550,
+    "genres": [
+      "east coast hip hop",
+      "gangster rap",
+      "hip hop",
+      "pop rap",
+      "queens hip hop",
+      "rap"
+    ],
+    "id": "3q7HBObVc0L8jNeTe5Gofh",
+    "name": "50 Cent",
+    "popularity": 81
+  },
+  {
+    "followers": 115779,
+    "genres": [
+      "nz pop"
+    ],
+    "id": "56mfhUDKa1vec6rSLZV5Eg",
+    "name": "Jawsh 685",
+    "popularity": 57
+  },
+  {
+    "followers": 10435188,
+    "genres": [
+      "emo",
+      "modern rock",
+      "pop",
+      "rock"
+    ],
+    "id": "4UXqAaa6dQYAk18Lv7PEgX",
+    "name": "Fall Out Boy",
+    "popularity": 77
+  },
+  {
+    "followers": 92399,
+    "genres": [],
+    "id": "3qBKjEOanahMxlRojwCzhI",
+    "name": "Zacari",
+    "popularity": 65
+  },
+  {
+    "followers": 6640167,
+    "genres": [
+      "melodic rap",
+      "pluggnb",
+      "rap"
+    ],
+    "id": "4Ga1P7PMIsmqEZqhYZQgDo",
+    "name": "Lil Tecca",
+    "popularity": 79
+  },
+  {
+    "followers": 1440551,
+    "genres": [
+      "hip hop",
+      "pop rap",
+      "rap",
+      "underground hip hop"
+    ],
+    "id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+    "name": "JID",
+    "popularity": 75
+  },
+  {
+    "followers": 1007783,
+    "genres": [
+      "deep talent show"
+    ],
+    "id": "4bYPcJP5jwMhSivRcqie2n",
+    "name": "Adam Levine",
+    "popularity": 69
+  },
+  {
+    "followers": 1540617,
+    "genres": [
+      "alt z",
+      "pop"
+    ],
+    "id": "6Dd3NScHWwnW6obMFbl1BH",
+    "name": "Daya",
+    "popularity": 66
+  },
+  {
+    "followers": 1480598,
+    "genres": [
+      "dance pop",
+      "pop rap"
+    ],
+    "id": "4IJczjB0fJ04gs4uvP0Fli",
+    "name": "Gym Class Heroes",
+    "popularity": 66
+  },
+  {
+    "followers": 2829294,
+    "genres": [
+      "bedroom pop",
+      "bubblegrunge",
+      "indie pop",
+      "pov: indie"
+    ],
+    "id": "35l9BRT7MXmM8bv2WDQiyB",
+    "name": "beabadoobee",
+    "popularity": 74
+  },
+  {
+    "followers": 7357140,
+    "genres": [
+      "boy band",
+      "pop"
+    ],
+    "id": "7gOdHgIoIKoe4i9Tta6qdD",
+    "name": "Jonas Brothers",
+    "popularity": 75
+  },
+  {
+    "followers": 1233786,
+    "genres": [
+      "sad lo-fi",
+      "sad rap"
+    ],
+    "id": "6bmlMHgSheBauioMgKv2tn",
+    "name": "Powfu",
+    "popularity": 67
+  },
+  {
+    "followers": 4948717,
+    "genres": [
+      "album rock",
+      "classic rock",
+      "hard rock",
+      "rock",
+      "southern rock"
+    ],
+    "id": "4MVyzYMgTwdP7Z49wAZHx0",
+    "name": "Lynyrd Skynyrd",
+    "popularity": 69
+  },
+  {
+    "followers": 5028447,
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "rap metal",
+      "rap rock",
+      "rock"
+    ],
+    "id": "4RddZ3iHvSpGV4dvATac9X",
+    "name": "Papa Roach",
+    "popularity": 69
+  },
+  {
+    "followers": 1461408,
+    "genres": [
+      "conscious hip hop",
+      "hip hop",
+      "rap",
+      "southern hip hop",
+      "trap"
+    ],
+    "id": "28ExwzUQsvgJooOI0X1mr3",
+    "name": "Jay Rock",
+    "popularity": 70
+  },
+  {
+    "followers": 16329729,
+    "genres": [
+      "hip hop",
+      "melodic rap",
+      "philly rap",
+      "rage rap",
+      "rap"
+    ],
+    "id": "4O15NlyKLIASxsJ0PrXPfz",
+    "name": "Lil Uzi Vert",
+    "popularity": 83
+  },
+  {
+    "followers": 4607139,
+    "genres": [
+      "dance pop",
+      "pop"
+    ],
+    "id": "6T5tfhQCknKG4UnH90qGnz",
+    "name": "DNCE",
+    "popularity": 65
+  },
+  {
+    "followers": 9801567,
+    "genres": [
+      "pop"
+    ],
+    "id": "6XpaIBNiVzIetEPCWDvAFP",
+    "name": "Whitney Houston",
+    "popularity": 74
+  },
+  {
+    "followers": 10018855,
+    "genres": [
+      "art pop",
+      "metropopolis",
+      "nz pop",
+      "pop"
+    ],
+    "id": "163tK9Wjr9P9DmM0AVK7lm",
+    "name": "Lorde",
+    "popularity": 74
+  },
+  {
+    "followers": 2922251,
+    "genres": [
+      "irish rock",
+      "modern rock",
+      "neo mellow",
+      "permanent wave",
+      "pop rock"
+    ],
+    "id": "3rIZMv9rysU7JkLzEaC5Jp",
+    "name": "Snow Patrol",
+    "popularity": 65
+  },
+  {
+    "followers": 161943,
+    "genres": [],
+    "id": "57nPqD7z62gDdq37US9XJR",
+    "name": "Arcane",
+    "popularity": 67
+  },
+  {
+    "followers": 1757239,
+    "genres": [
+      "speedrun",
+      "video game music"
+    ],
+    "id": "47mIJdHORyRerp4os813jD",
+    "name": "League of Legends",
+    "popularity": 78
+  },
+  {
+    "followers": 8484255,
+    "genres": [
+      "dance pop",
+      "pop",
+      "r&b",
+      "urban contemporary"
+    ],
+    "id": "21E3waRsmPlU7jZsS13rcj",
+    "name": "Ne-Yo",
+    "popularity": 77
+  },
+  {
+    "followers": 1394392,
+    "genres": [
+      "indie folk",
+      "stomp and holler"
+    ],
+    "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+    "name": "Lord Huron",
+    "popularity": 73
+  },
+  {
+    "followers": 2545741,
+    "genres": [
+      "new romantic",
+      "new wave",
+      "new wave pop",
+      "soft rock"
+    ],
+    "id": "5lpH0xAS4fVfLkACg9DAuM",
+    "name": "Wham!",
+    "popularity": 75
+  },
+  {
+    "followers": 2474953,
+    "genres": [
+      "edm",
+      "pop dance"
+    ],
+    "id": "2XnBwblw31dfGnspMIwgWz",
+    "name": "Axwell /\\ Ingrosso",
+    "popularity": 62
+  },
+  {
+    "followers": 4870,
+    "genres": [],
+    "id": "56xTxG4nQMAs1GW9kvn0uA",
+    "name": "Wanz",
+    "popularity": 62
+  },
+  {
+    "followers": 2954674,
+    "genres": [
+      "folk-pop",
+      "modern rock"
+    ],
+    "id": "10exVja0key0uqUkk6LJRT",
+    "name": "Vance Joy",
+    "popularity": 73
+  },
+  {
+    "followers": 4026083,
+    "genres": [
+      "neo mellow",
+      "piano rock",
+      "pop",
+      "pop rock"
+    ],
+    "id": "0zOcE3mg9nS6l3yxt1Y0bK",
+    "name": "The Fray",
+    "popularity": 67
+  },
+  {
+    "followers": 12079165,
+    "genres": [
+      "modern rock",
+      "pop"
+    ],
+    "id": "20JZFwl6HVl6yg8a4H3ZqK",
+    "name": "Panic! At The Disco",
+    "popularity": 74
+  },
+  {
+    "followers": 1797429,
+    "genres": [
+      "melodic rap"
+    ],
+    "id": "6ASri4ePR7RlsvIQgWPJpS",
+    "name": "iann dior",
+    "popularity": 69
+  },
+  {
+    "followers": 1054258,
+    "genres": [
+      "pop",
+      "post-teen pop"
+    ],
+    "id": "2l35CQqtYRh3d8ZIiBep4v",
+    "name": "MKTO",
+    "popularity": 62
+  },
+  {
+    "followers": 2128900,
+    "genres": [
+      "cali rap",
+      "pop rap"
+    ],
+    "id": "6fWVd57NKTalqvmjRd2t8Z",
+    "name": "24kGoldn",
+    "popularity": 68
+  },
+  {
+    "followers": 4149371,
+    "genres": [
+      "folk-pop",
+      "neo-singer-songwriter",
+      "talent show"
+    ],
+    "id": "2ysnwxxNtSgbb9t1m2Ur4j",
+    "name": "George Ezra",
+    "popularity": 71
+  },
+  {
+    "followers": 599634,
+    "genres": [
+      "modern alternative pop"
+    ],
+    "id": "2VSHKHBTiXWplO8lxcnUC9",
+    "name": "GAYLE",
+    "popularity": 62
+  },
+  {
+    "followers": 9277024,
+    "genres": [
+      "hip hop",
+      "pop rap"
+    ],
+    "id": "6fOMl44jA4Sp5b9PpYCkzz",
+    "name": "NF",
+    "popularity": 78
+  },
+  {
+    "followers": 3016314,
+    "genres": [
+      "irish pop",
+      "modern rock"
+    ],
+    "id": "4BxCuXFJrSWGi1KHcVqaU4",
+    "name": "Kodaline",
+    "popularity": 66
+  },
+  {
+    "followers": 1325764,
+    "genres": [
+      "pop",
+      "reggae fusion"
+    ],
+    "id": "0DxeaLnv6SyYk2DOqkLO8c",
+    "name": "MAGIC!",
+    "popularity": 63
+  },
+  {
+    "followers": 1420617,
+    "genres": [
+      "indie rock",
+      "indietronica",
+      "modern alternative rock",
+      "modern rock"
+    ],
+    "id": "4kI8Ie27vjvonwaB2ePh8T",
+    "name": "Portugal. The Man",
+    "popularity": 65
+  },
+  {
+    "followers": 230040,
+    "genres": [
+      "modern rock"
+    ],
+    "id": "1qUjOF5fzrpoNycD36b2jZ",
+    "name": "Nate Ruess",
+    "popularity": 62
+  },
+  {
+    "followers": 1850820,
+    "genres": [
+      "dance rock",
+      "new romantic",
+      "new wave",
+      "new wave pop",
+      "soft rock",
+      "sophisti-pop",
+      "synthpop"
+    ],
+    "id": "0NKDgy9j66h3DLnN8qu1bB",
+    "name": "Eurythmics",
+    "popularity": 65
+  },
+  {
+    "followers": 16189122,
+    "genres": [
+      "dance pop",
+      "pop"
+    ],
+    "id": "1KCSPY1glIKqW2TotWuXOR",
+    "name": "P!nk",
+    "popularity": 78
+  },
+  {
+    "followers": 11854471,
+    "genres": [
+      "atl hip hop",
+      "hip hop",
+      "rap"
+    ],
+    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+    "name": "Childish Gambino",
+    "popularity": 77
+  },
+  {
+    "followers": 8234608,
+    "genres": [
+      "indie rock italiano",
+      "italian pop"
+    ],
+    "id": "0lAWpj5szCSwM4rUMHYmrr",
+    "name": "M\u00e5neskin",
+    "popularity": 79
+  },
+  {
+    "followers": 2161386,
+    "genres": [
+      "danish pop",
+      "scandipop"
+    ],
+    "id": "25u4wHJWxCA9vO0CzxAbK7",
+    "name": "Lukas Graham",
+    "popularity": 69
+  },
+  {
+    "followers": 60659,
+    "genres": [
+      "pop dance"
+    ],
+    "id": "4e0nWw2r4BoQSKPQ2zpU13",
+    "name": "Ray Dalton",
+    "popularity": 71
+  },
+  {
+    "followers": 13414690,
+    "genres": [
+      "dance pop",
+      "pop"
+    ],
+    "id": "26dSoYclwsYLMAKD3tpOr4",
+    "name": "Britney Spears",
+    "popularity": 79
+  },
+  {
+    "followers": 13581471,
+    "genres": [
+      "album rock",
+      "british invasion",
+      "classic rock",
+      "rock"
+    ],
+    "id": "22bE4uQ6baNwSHPVcDxLCe",
+    "name": "The Rolling Stones",
+    "popularity": 77
+  },
+  {
+    "followers": 2119156,
+    "genres": [
+      "dance rock",
+      "modern alternative rock",
+      "modern rock",
+      "neo mellow",
+      "pop rock"
+    ],
+    "id": "6DIS6PRrLS3wbnZsf7vYic",
+    "name": "WALK THE MOON",
+    "popularity": 65
+  },
+  {
+    "followers": 1051702,
+    "genres": [
+      "pop soul"
+    ],
+    "id": "3hv9jJF3adDNsBSIQDqcjp",
+    "name": "Mark Ronson",
+    "popularity": 71
+  },
+  {
+    "followers": 10182859,
+    "genres": [
+      "album rock",
+      "classic rock",
+      "heartland rock",
+      "mellow gold",
+      "rock",
+      "soft rock",
+      "yacht rock"
+    ],
+    "id": "0ECwFtbIWEVNwjlrfc6xoL",
+    "name": "Eagles",
+    "popularity": 74
+  },
+  {
+    "followers": 4943854,
+    "genres": [
+      "australian hip hop"
+    ],
+    "id": "2tIP7SsRs7vjIcLrU85W8J",
+    "name": "The Kid LAROI",
+    "popularity": 80
+  },
+  {
+    "followers": 3108061,
+    "genres": [
+      "deep euro house",
+      "deep house",
+      "edm",
+      "german dance",
+      "pop dance",
+      "tropical house"
+    ],
+    "id": "3t5xRXzsuZmMDkQzgOX35S",
+    "name": "Robin Schulz",
+    "popularity": 74
+  },
+  {
+    "followers": 38939,
+    "genres": [
+      "canadian pop"
+    ],
+    "id": "5X1JzPIIonP3u9lA580pPT",
+    "name": "Francesco Yates",
+    "popularity": 59
+  },
+  {
+    "followers": 31533,
+    "genres": [
+      "new wave pop",
+      "rock keyboard"
+    ],
+    "id": "7gcCQIlkkfbul5Mt0jBQkg",
+    "name": "Dave Stewart",
+    "popularity": 66
+  },
+  {
+    "followers": 10653451,
+    "genres": [
+      "latin hip hop",
+      "puerto rican pop",
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "33ScadVnbm2X8kkUqOkC6Z",
+    "name": "Don Omar",
+    "popularity": 79
+  },
+  {
+    "followers": 1457555,
+    "genres": [
+      "new romantic",
+      "new wave",
+      "new wave pop",
+      "singer-songwriter",
+      "soft rock",
+      "synthpop"
+    ],
+    "id": "5MspMQqdVbdwP6ax3GXqum",
+    "name": "Annie Lennox",
+    "popularity": 68
+  },
+  {
+    "followers": 881968,
+    "genres": [
+      "metropopolis",
+      "modern rock"
+    ],
+    "id": "4gwpcMTbLWtBUlOijbVpuu",
+    "name": "Capital Cities",
+    "popularity": 64
+  },
+  {
+    "followers": 1774687,
+    "genres": [
+      "art pop",
+      "art rock",
+      "baroque pop",
+      "new wave pop",
+      "permanent wave",
+      "piano rock",
+      "singer-songwriter"
+    ],
+    "id": "1aSxMhuvixZ8h9dK9jIDwL",
+    "name": "Kate Bush",
+    "popularity": 66
+  },
+  {
+    "followers": 778536,
+    "genres": [
+      "classic texas country",
+      "contemporary country"
+    ],
+    "id": "6WY7D3jk8zTrHtmkqqo5GI",
+    "name": "Maren Morris",
+    "popularity": 68
+  },
+  {
+    "followers": 3387014,
+    "genres": [
+      "canadian pop",
+      "canadian singer-songwriter",
+      "classic canadian rock",
+      "heartland rock",
+      "mellow gold",
+      "soft rock"
+    ],
+    "id": "3Z02hBLubJxuFJfhacLSDc",
+    "name": "Bryan Adams",
+    "popularity": 73
+  },
+  {
+    "followers": 9804126,
+    "genres": [
+      "boy band",
+      "pop"
+    ],
+    "id": "5Rl15oVamLq7FbSb0NNBNy",
+    "name": "5 Seconds of Summer",
+    "popularity": 74
+  },
+  {
+    "followers": 1180091,
+    "genres": [
+      "birmingham grime",
+      "grime",
+      "instrumental grime",
+      "uk hip hop"
+    ],
+    "id": "2p1fiYHYiXz9qi0JJyxBzN",
+    "name": "Skepta",
+    "popularity": 71
+  },
+  {
+    "followers": 13186436,
+    "genres": [
+      "east coast hip hop",
+      "hip hop",
+      "rap",
+      "trap"
+    ],
+    "id": "13ubrt8QOOCPljQ2FL1Kca",
+    "name": "A$AP Rocky",
+    "popularity": 80
+  },
+  {
+    "followers": 2439990,
+    "genres": [
+      "atl hip hop",
+      "dirty south rap",
+      "hip hop",
+      "old school atlanta hip hop",
+      "rap",
+      "southern hip hop"
+    ],
+    "id": "1G9G7WwrXka3Z1r7aIDjI7",
+    "name": "Outkast",
+    "popularity": 72
+  },
+  {
+    "followers": 9203876,
+    "genres": [
+      "melodic rap",
+      "rap",
+      "trap"
+    ],
+    "id": "6Xgp2XMz1fhVYe7i6yNAax",
+    "name": "Trippie Redd",
+    "popularity": 79
+  },
+  {
+    "followers": 5476281,
+    "genres": [
+      "boy band",
+      "dance pop",
+      "pop"
+    ],
+    "id": "5rSXSAkZ67PYJSvpUpkOr7",
+    "name": "Backstreet Boys",
+    "popularity": 73
+  },
+  {
+    "followers": 6084647,
+    "genres": [
+      "pop"
+    ],
+    "id": "5JZ7CnR6gTvEMKX4g70Amv",
+    "name": "Lauv",
+    "popularity": 74
+  },
+  {
+    "followers": 10923757,
+    "genres": [
+      "atl hip hop",
+      "contemporary r&b",
+      "dance pop",
+      "pop",
+      "r&b",
+      "rap",
+      "south carolina hip hop",
+      "urban contemporary"
+    ],
+    "id": "23zg3TcAtWQy7J6upgbUnj",
+    "name": "USHER",
+    "popularity": 78
+  },
+  {
+    "followers": 2967934,
+    "genres": [
+      "modern alternative rock",
+      "modern rock",
+      "stomp pop"
+    ],
+    "id": "3NPpFNZtSTHheNBaWC82rB",
+    "name": "X Ambassadors",
+    "popularity": 69
+  },
+  {
+    "followers": 5311876,
+    "genres": [
+      "modern rock",
+      "rock"
+    ],
+    "id": "2qk9voo8llSGYcZ6xrBzKx",
+    "name": "Kings of Leon",
+    "popularity": 72
+  },
+  {
+    "followers": 3756485,
+    "genres": [
+      "pop"
+    ],
+    "id": "7H55rcKCfwqkyDFH9wpKM6",
+    "name": "Christina Perri",
+    "popularity": 70
+  },
+  {
+    "followers": 10885075,
+    "genres": [
+      "g funk",
+      "gangster rap",
+      "hip hop",
+      "rap",
+      "west coast rap"
+    ],
+    "id": "6DPYiyq5kWVQS4RGwxzPC7",
+    "name": "Dr. Dre",
+    "popularity": 77
+  },
+  {
+    "followers": 2745744,
+    "genres": [
+      "atl hip hop",
+      "dance pop",
+      "dirty south rap",
+      "hip hop",
+      "old school atlanta hip hop",
+      "pop rap",
+      "rap",
+      "southern hip hop",
+      "trap"
+    ],
+    "id": "3ipn9JLAPI5GUEo4y4jcoi",
+    "name": "Ludacris",
+    "popularity": 74
+  },
+  {
+    "followers": 1495900,
+    "genres": [
+      "atl hip hop",
+      "crunk",
+      "dance pop",
+      "dirty south rap",
+      "old school atlanta hip hop",
+      "pop rap",
+      "southern hip hop",
+      "trap"
+    ],
+    "id": "7sfl4Xt5KmfyDs2T3SVSMK",
+    "name": "Lil Jon",
+    "popularity": 70
+  },
+  {
+    "followers": 4346076,
+    "genres": [
+      "dance pop",
+      "neo mellow",
+      "pop",
+      "pop rock"
+    ],
+    "id": "3FUY2gzHeIiaesXtOAdB7A",
+    "name": "Train",
+    "popularity": 71
+  },
+  {
+    "followers": 381650,
+    "genres": [
+      "dance pop",
+      "pop dance",
+      "uk dance"
+    ],
+    "id": "6DgP9otnZw5z6daOntINxp",
+    "name": "Joel Corry",
+    "popularity": 70
+  },
+  {
+    "followers": 19267348,
+    "genres": [
+      "latin hip hop",
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "1SupJlEpv7RS2tPNRaHViT",
+    "name": "Nicky Jam",
+    "popularity": 78
+  },
+  {
+    "followers": 2562488,
+    "genres": [
+      "pop",
+      "r&b"
+    ],
+    "id": "2cWZOOzeOm4WmBJRnD5R7I",
+    "name": "Normani",
+    "popularity": 65
+  },
+  {
+    "followers": 12937161,
+    "genres": [
+      "glam metal",
+      "rock"
+    ],
+    "id": "58lV9VcRSjABbAbfWS6skp",
+    "name": "Bon Jovi",
+    "popularity": 75
+  },
+  {
+    "followers": 5227010,
+    "genres": [
+      "classic soul",
+      "motown",
+      "neo soul",
+      "northern soul",
+      "quiet storm",
+      "soul"
+    ],
+    "id": "3koiLjNrgRTNbOwViDipeA",
+    "name": "Marvin Gaye",
+    "popularity": 72
+  },
+  {
+    "followers": 173817,
+    "genres": [
+      "classic soul",
+      "motown",
+      "soul",
+      "southern soul"
+    ],
+    "id": "75jNCko3SnEMI5gwGqrbb8",
+    "name": "Tammi Terrell",
+    "popularity": 65
+  },
+  {
+    "followers": 7144128,
+    "genres": [
+      "australian psych",
+      "modern rock",
+      "neo-psychedelic",
+      "rock"
+    ],
+    "id": "5INjqkS1o8h1imAzPqGZBb",
+    "name": "Tame Impala",
+    "popularity": 77
+  },
+  {
+    "followers": 2672757,
+    "genres": [
+      "neo mellow",
+      "permanent wave",
+      "pop rock",
+      "post-grunge"
+    ],
+    "id": "2sil8z5kiy4r76CRTXxBCA",
+    "name": "The Goo Goo Dolls",
+    "popularity": 69
+  },
+  {
+    "followers": 6664361,
+    "genres": [
+      "neo soul",
+      "pop",
+      "pop soul",
+      "urban contemporary"
+    ],
+    "id": "5y2Xq6xcjJb2jVM54GHK3t",
+    "name": "John Legend",
+    "popularity": 75
+  },
+  {
+    "followers": 4721155,
+    "genres": [
+      "alt z",
+      "pop",
+      "pov: indie"
+    ],
+    "id": "5IH6FPUwQTxPSXurCrcIov",
+    "name": "Alec Benjamin",
+    "popularity": 73
+  },
+  {
+    "followers": 4294304,
+    "genres": [
+      "alternative rock",
+      "athens indie",
+      "permanent wave",
+      "rock"
+    ],
+    "id": "4KWTAlx2RvbpseOGMEmROg",
+    "name": "R.E.M.",
+    "popularity": 71
+  },
+  {
+    "followers": 32333480,
+    "genres": [
+      "colombian pop",
+      "dance pop",
+      "latin pop",
+      "pop"
+    ],
+    "id": "0EmeFodog0BfCgMzAIvKQp",
+    "name": "Shakira",
+    "popularity": 84
+  },
+  {
+    "followers": 311642,
+    "genres": [
+      "rap kreyol"
+    ],
+    "id": "7aBzpmFXB4WWpPl2F7RjBe",
+    "name": "Wyclef Jean",
+    "popularity": 68
+  },
+  {
+    "followers": 2969848,
+    "genres": [
+      "alternative rock",
+      "blues rock",
+      "detroit rock",
+      "garage rock",
+      "modern blues rock",
+      "permanent wave",
+      "punk blues",
+      "rock"
+    ],
+    "id": "4F84IBURUo98rz4r61KF70",
+    "name": "The White Stripes",
+    "popularity": 69
+  },
+  {
+    "followers": 6280601,
+    "genres": [
+      "pop"
+    ],
+    "id": "4npEfmQ6YuiwW1GpUmaq3F",
+    "name": "Ava Max",
+    "popularity": 77
+  },
+  {
+    "followers": 12425522,
+    "genres": [
+      "indietronica",
+      "metropopolis",
+      "pop",
+      "uk pop"
+    ],
+    "id": "0X2BH1fck6amBIoJhDVmmJ",
+    "name": "Ellie Goulding",
+    "popularity": 77
+  },
+  {
+    "followers": 13548099,
+    "genres": [
+      "dance pop",
+      "pop"
+    ],
+    "id": "31TPClRtHm23RisEBtV3X7",
+    "name": "Justin Timberlake",
+    "popularity": 79
+  },
+  {
+    "followers": 1666209,
+    "genres": [
+      "latin pop",
+      "puerto rican pop"
+    ],
+    "id": "4QVBYiagIaa6ZGSPMbybpy",
+    "name": "Pedro Cap\u00f3",
+    "popularity": 66
+  },
+  {
+    "followers": 8108073,
+    "genres": [
+      "celtic rock",
+      "pop"
+    ],
+    "id": "3AQRLZ9PuTAozP28Skbq8V",
+    "name": "The Script",
+    "popularity": 71
+  },
+  {
+    "followers": 10031316,
+    "genres": [
+      "art rock",
+      "classic rock",
+      "glam rock",
+      "permanent wave",
+      "rock"
+    ],
+    "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+    "name": "David Bowie",
+    "popularity": 75
+  },
+  {
+    "followers": 1376590,
+    "genres": [
+      "pop dance",
+      "uk dance",
+      "uk funky"
+    ],
+    "id": "4WN5naL3ofxrVBgFpguzKo",
+    "name": "Rudimental",
+    "popularity": 65
+  },
+  {
+    "followers": 27415,
+    "genres": [
+      "neo soul",
+      "uk contemporary r&b"
+    ],
+    "id": "2U3FuHYvL3vhkbDAXm24Ep",
+    "name": "Dan Caplen",
+    "popularity": 59
+  },
+  {
+    "followers": 479803,
+    "genres": [
+      "adult standards",
+      "easy listening",
+      "lounge"
+    ],
+    "id": "6ZjFtWeHP9XN7FeKSUe80S",
+    "name": "Bing Crosby",
+    "popularity": 76
+  },
+  {
+    "followers": 472,
+    "genres": [],
+    "id": "69UfPJgUmFFAVT740qGVZi",
+    "name": "Ken Darby Singers",
+    "popularity": 65
+  },
+  {
+    "followers": 537,
+    "genres": [
+      "light music"
+    ],
+    "id": "735L650pvygCZZlPMyHqsN",
+    "name": "John Scott Trotter & His Orchestra",
+    "popularity": 65
+  },
+  {
+    "followers": 39872342,
+    "genres": [
+      "electro house"
+    ],
+    "id": "7vk5e3vY1uw9plTHJAMwjN",
+    "name": "Alan Walker",
+    "popularity": 78
+  },
+  {
+    "followers": 9446894,
+    "genres": [
+      "beatlesque",
+      "britpop",
+      "madchester",
+      "permanent wave",
+      "rock"
+    ],
+    "id": "2DaxqgrOhkeH0fpeiQq2f4",
+    "name": "Oasis",
+    "popularity": 74
+  },
+  {
+    "followers": 5309084,
+    "genres": [
+      "melodic rap",
+      "rap conscient"
+    ],
+    "id": "5zctI4wO9XSKS8XwcnqEHk",
+    "name": "Lil Mosey",
+    "popularity": 66
+  },
+  {
+    "followers": 3990877,
+    "genres": [
+      "neo mellow",
+      "pop",
+      "uk pop"
+    ],
+    "id": "4EzkuveR9pLvDVFNx6foYD",
+    "name": "James Bay",
+    "popularity": 68
+  },
+  {
+    "followers": 34692552,
+    "genres": [
+      "latin pop",
+      "reggaeton",
+      "reggaeton colombiano",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "1r4hJ1h58CWwUQe3MxPuau",
+    "name": "Maluma",
+    "popularity": 83
+  },
+  {
+    "followers": 12598009,
+    "genres": [
+      "glam rock",
+      "mellow gold",
+      "piano rock",
+      "rock"
+    ],
+    "id": "3PhoLpVuITZKcymswpck5b",
+    "name": "Elton John",
+    "popularity": 81
+  },
+  {
+    "followers": 220609,
+    "genres": [
+      "alternative dance",
+      "aussietronica",
+      "australian dance",
+      "australian electropop"
+    ],
+    "id": "6n28c9qs9hNGriNa72b26u",
+    "name": "PNAU",
+    "popularity": 69
+  },
+  {
+    "followers": 3597850,
+    "genres": [
+      "chill pop"
+    ],
+    "id": "2txHhyCwHjUEpJjWrEyqyX",
+    "name": "Tom Odell",
+    "popularity": 75
+  },
+  {
+    "followers": 20750,
+    "genres": [],
+    "id": "2LhsePRtgCo4THVKULQBL7",
+    "name": "L.V.",
+    "popularity": 65
+  },
+  {
+    "followers": 1036211,
+    "genres": [
+      "g funk",
+      "gangster rap",
+      "hip hop",
+      "west coast rap"
+    ],
+    "id": "3y24n3XhZ96wgwRXjvS17T",
+    "name": "Coolio",
+    "popularity": 66
+  },
+  {
+    "followers": 1066866,
+    "genres": [
+      "cumbia",
+      "latin alternative",
+      "latin rock",
+      "pop electronico",
+      "tropical alternativo"
+    ],
+    "id": "5n9bMYfz9qss2VOW89EVs2",
+    "name": "Bomba Est\u00e9reo",
+    "popularity": 67
+  },
+  {
+    "followers": 7184415,
+    "genres": [
+      "alternative rock",
+      "dance rock",
+      "modern rock",
+      "permanent wave",
+      "rock"
+    ],
+    "id": "0C0XlULifJtAgn6ZNCW2eu",
+    "name": "The Killers",
+    "popularity": 74
+  },
+  {
+    "followers": 130856,
+    "genres": [
+      "nashville indie"
+    ],
+    "id": "1buzCmyYZE4kcdLRudsb8V",
+    "name": "Mikky Ekko",
+    "popularity": 64
+  },
+  {
+    "followers": 9589880,
+    "genres": [
+      "east coast hip hop",
+      "gangster rap",
+      "hardcore hip hop",
+      "hip hop",
+      "rap"
+    ],
+    "id": "5me0Irg2ANcsgc93uaYrpb",
+    "name": "The Notorious B.I.G.",
+    "popularity": 75
+  },
+  {
+    "followers": 3663362,
+    "genres": [
+      "canadian latin",
+      "canadian pop",
+      "dance pop",
+      "pop"
+    ],
+    "id": "2jw70GZXlAI8QzWeY2bgRc",
+    "name": "Nelly Furtado",
+    "popularity": 74
+  },
+  {
+    "followers": 2698640,
+    "genres": [
+      "dance pop",
+      "pop",
+      "pop rap"
+    ],
+    "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+    "name": "Timbaland",
+    "popularity": 75
+  },
+  {
+    "followers": 568499,
+    "genres": [
+      "neo mellow",
+      "piano rock",
+      "pop rock",
+      "viral pop"
+    ],
+    "id": "5xKp3UyavIBUsGy3DQdXeF",
+    "name": "A Great Big World",
+    "popularity": 58
+  },
+  {
+    "followers": 11632765,
+    "genres": [
+      "k-pop"
+    ],
+    "id": "6HaGTQPmzraVmaVxvz6EUc",
+    "name": "Jung Kook",
+    "popularity": 89
+  },
+  {
+    "followers": 1331978,
+    "genres": [
+      "trap queen"
+    ],
+    "id": "3MdXrJWsbVzdn6fe5JYkSQ",
+    "name": "Latto",
+    "popularity": 80
+  },
+  {
+    "followers": 5544084,
+    "genres": [
+      "pop"
+    ],
+    "id": "4GvEc3ANtPPjt1ZJllr5Zl",
+    "name": "Bazzi",
+    "popularity": 68
+  },
+  {
+    "followers": 13358066,
+    "genres": [
+      "hip hop",
+      "rap"
+    ],
+    "id": "4V8LLVI7PbaPR0K2TGSxFF",
+    "name": "Tyler, The Creator",
+    "popularity": 82
+  },
+  {
+    "followers": 5811346,
+    "genres": [
+      "colombian pop"
+    ],
+    "id": "1U1el3k54VvEUzo3ybLPlM",
+    "name": "Kali Uchis",
+    "popularity": 82
+  },
+  {
+    "followers": 3619731,
+    "genres": [
+      "afrobeats",
+      "nigerian pop"
+    ],
+    "id": "46pWGuE3dSwY3bMMXGBvVS",
+    "name": "Rema",
+    "popularity": 77
+  },
+  {
+    "followers": 3958715,
+    "genres": [
+      "gauze pop",
+      "indietronica",
+      "modern rock",
+      "pov: indie",
+      "shiver pop"
+    ],
+    "id": "4yvcSjfu4PC0CYQyLy4wSq",
+    "name": "Glass Animals",
+    "popularity": 72
+  },
+  {
+    "followers": 3191572,
+    "genres": [
+      "new romantic",
+      "new wave",
+      "new wave pop",
+      "permanent wave",
+      "rock",
+      "sophisti-pop",
+      "synthpop"
+    ],
+    "id": "4bthk9UfsYUYdcFyqxmSUU",
+    "name": "Tears For Fears",
+    "popularity": 72
+  },
+  {
+    "followers": 3948252,
+    "genres": [
+      "afrofuturism"
+    ],
+    "id": "57vWImR43h4CaDao012Ofp",
+    "name": "Steve Lacy",
+    "popularity": 79
+  },
+  {
+    "followers": 5782132,
+    "genres": [
+      "album rock",
+      "classic rock",
+      "permanent wave",
+      "rock"
+    ],
+    "id": "5NGO30tJxFlKixkPSgXcFE",
+    "name": "The Police",
+    "popularity": 74
+  },
+  {
+    "followers": 644815,
+    "genres": [
+      "reggaeton",
+      "reggaeton flow",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "37230BxxYs9ksS7OkZw3IU",
+    "name": "Chencho Corleone",
+    "popularity": 78
+  },
+  {
+    "followers": 3199706,
+    "genres": [
+      "alt z",
+      "canadian contemporary r&b",
+      "canadian pop",
+      "pop"
+    ],
+    "id": "2WzaAvm2bBCf4pEhyuDgCY",
+    "name": "Ruth B.",
+    "popularity": 71
+  },
+  {
+    "followers": 9072650,
+    "genres": [
+      "alternative rock",
+      "art rock",
+      "melancholia",
+      "oxford indie",
+      "permanent wave",
+      "rock"
+    ],
+    "id": "4Z8W4fKeB5YxbusRsdQVPb",
+    "name": "Radiohead",
+    "popularity": 79
+  },
+  {
+    "followers": 4890322,
+    "genres": [
+      "r&b",
+      "urban contemporary"
+    ],
+    "id": "360IAlyVv4PCEVjgyMZrxK",
+    "name": "Miguel",
+    "popularity": 77
+  },
+  {
+    "followers": 2149927,
+    "genres": [
+      "new romantic",
+      "new wave",
+      "new wave pop",
+      "permanent wave",
+      "synthpop"
+    ],
+    "id": "2jzc5TC5TVFLXQlBNiIUzE",
+    "name": "a-ha",
+    "popularity": 70
+  },
+  {
+    "followers": 13537220,
+    "genres": [
+      "argentine hip hop",
+      "pop venezolano",
+      "trap argentino",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "716NhGYqD1jl2wI1Qkgq36",
+    "name": "Bizarrap",
+    "popularity": 83
+  },
+  {
+    "followers": 3442260,
+    "genres": [
+      "rap canario",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "52iwsT98xCoGgiGntTiR7K",
+    "name": "Quevedo",
+    "popularity": 84
+  },
+  {
+    "followers": 4587204,
+    "genres": [
+      "afrobeats",
+      "afropop",
+      "azonto",
+      "nigerian hip hop",
+      "nigerian pop"
+    ],
+    "id": "3tVQdUvClmAT7URs9V3rsp",
+    "name": "Wizkid",
+    "popularity": 74
+  },
+  {
+    "followers": 16080,
+    "genres": [
+      "uk funky"
+    ],
+    "id": "77DAFfvm3O9zT5dIoG0eIO",
+    "name": "Kyla",
+    "popularity": 67
+  },
+  {
+    "followers": 10765364,
+    "genres": [
+      "album rock",
+      "classic rock",
+      "rock",
+      "soft rock",
+      "yacht rock"
+    ],
+    "id": "08GQAI4eElDnROBrJRGE0X",
+    "name": "Fleetwood Mac",
+    "popularity": 79
+  },
+  {
+    "followers": 587518,
+    "genres": [
+      "chicago indie",
+      "pov: indie"
+    ],
+    "id": "027TpXKGwdXP7iwbjUSpV8",
+    "name": "The Walters",
+    "popularity": 68
+  },
+  {
+    "followers": 20991557,
+    "genres": [
+      "r&b",
+      "rap"
+    ],
+    "id": "7bXgB6jMjp9ATFy66eO08Z",
+    "name": "Chris Brown",
+    "popularity": 85
+  },
+  {
+    "followers": 14618458,
+    "genres": [
+      "pop",
+      "talent show",
+      "uk pop"
+    ],
+    "id": "4IWBUUAFIplrNtaOHcJPRM",
+    "name": "James Arthur",
+    "popularity": 80
+  },
+  {
+    "followers": 8810293,
+    "genres": [
+      "bedroom pop",
+      "pop",
+      "pov: indie"
+    ],
+    "id": "4Uc8Dsxct0oMqx0P6i60ea",
+    "name": "Conan Gray",
+    "popularity": 77
+  },
+  {
+    "followers": 3545078,
+    "genres": [
+      "pop rap",
+      "rap",
+      "southern hip hop",
+      "trap",
+      "viral trap"
+    ],
+    "id": "7pFeBzX627ff0VnN6bxPR4",
+    "name": "Desiigner",
+    "popularity": 59
+  },
+  {
+    "followers": 4165047,
+    "genres": [
+      "dance pop",
+      "pop"
+    ],
+    "id": "085pc2PYOi8bGKj0PNjekA",
+    "name": "will.i.am",
+    "popularity": 70
+  },
+  {
+    "followers": 4148207,
+    "genres": [
+      "latin hip hop",
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "1TtXnWcUs0FCkaZDPGYHdf",
+    "name": "Darell",
+    "popularity": 76
+  },
+  {
+    "followers": 239864,
+    "genres": [
+      "country rock"
+    ],
+    "id": "60rpJ9SgigSd16DOAG7GSa",
+    "name": "Billy Ray Cyrus",
+    "popularity": 60
+  },
+  {
+    "followers": 475282,
+    "genres": [
+      "alt z",
+      "canadian contemporary r&b",
+      "singer-songwriter pop"
+    ],
+    "id": "66W9LaWS0DPdL7Sz8iYGYe",
+    "name": "JP Saxe",
+    "popularity": 64
+  },
+  {
+    "followers": 4908584,
+    "genres": [
+      "pop"
+    ],
+    "id": "2cFrymmkijnjDg9SS92EPM",
+    "name": "blackbear",
+    "popularity": 73
+  },
+  {
+    "followers": 7207636,
+    "genres": [
+      "big room",
+      "brostep",
+      "dutch edm",
+      "edm",
+      "house",
+      "pop dance",
+      "slap house",
+      "trance"
+    ],
+    "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+    "name": "Ti\u00ebsto",
+    "popularity": 80
+  },
+  {
+    "followers": 1596430,
+    "genres": [
+      "alt z",
+      "pop"
+    ],
+    "id": "3iri9nBFs9e4wN7PLIetAw",
+    "name": "gnash",
+    "popularity": 61
+  },
+  {
+    "followers": 2030679,
+    "genres": [
+      "alt z",
+      "pop"
+    ],
+    "id": "1QRj3hoop9Mv5VvHQkwPEp",
+    "name": "Olivia O'Brien",
+    "popularity": 63
+  },
+  {
+    "followers": 5228087,
+    "genres": [
+      "indie pop rap",
+      "oakland hip hop",
+      "pop rap",
+      "rap"
+    ],
+    "id": "02kJSzxNuaWGqwubyUba0Z",
+    "name": "G-Eazy",
+    "popularity": 73
+  },
+  {
+    "followers": 3165358,
+    "genres": [
+      "crunk",
+      "memphis hip hop",
+      "pop rap",
+      "rap",
+      "southern hip hop",
+      "trap"
+    ],
+    "id": "5gCRApTajqwbnHHPbr2Fpi",
+    "name": "Juicy J",
+    "popularity": 71
+  },
+  {
+    "followers": 5775572,
+    "genres": [
+      "k-pop"
+    ],
+    "id": "5L1lO4eRHmJ7a0Q6csE5cT",
+    "name": "LISA",
+    "popularity": 70
+  },
+  {
+    "followers": 1057398,
+    "genres": [
+      "album rock",
+      "glam metal",
+      "hard rock",
+      "soft rock"
+    ],
+    "id": "26bcq2nyj5GB7uRr558iQg",
+    "name": "Survivor",
+    "popularity": 65
+  },
+  {
+    "followers": 111748,
+    "genres": [
+      "australian pop"
+    ],
+    "id": "1rw8ZTLnDHd74TWDDukjVi",
+    "name": "Conrad Sewell",
+    "popularity": 58
+  },
+  {
+    "followers": 3196816,
+    "genres": [
+      "neo mellow",
+      "piano rock",
+      "pop rock"
+    ],
+    "id": "53A0W3U0s8diEn9RhXQhVz",
+    "name": "Keane",
+    "popularity": 71
+  },
+  {
+    "followers": 4024,
+    "genres": [],
+    "id": "1WsYCXdezMjn0KoIrLvMmC",
+    "name": "Ed Sheeran & Justin Bieber",
+    "popularity": 58
+  },
+  {
+    "followers": 736928,
+    "genres": [
+      "indie pop rap",
+      "pop rap",
+      "rhode island rap"
+    ],
+    "id": "0vRvGUQVUjytro0xpb26bs",
+    "name": "Arizona Zervas",
+    "popularity": 62
+  },
+  {
+    "followers": 3017769,
+    "genres": [
+      "australian pop"
+    ],
+    "id": "2NjfBq1NflQcKSeiDooVjY",
+    "name": "Tones And I",
+    "popularity": 67
+  },
+  {
+    "followers": 3976877,
+    "genres": [
+      "dance pop",
+      "edm",
+      "pop",
+      "pop dance",
+      "progressive electro house"
+    ],
+    "id": "4AVFqumd2ogHFlRbKIjp1t",
+    "name": "Alesso",
+    "popularity": 72
+  },
+  {
+    "followers": 234525,
+    "genres": [
+      "pop dance"
+    ],
+    "id": "4RSyJzf7ef6Iu2rnLdabNq",
+    "name": "Willy William",
+    "popularity": 62
+  },
+  {
+    "followers": 21962,
+    "genres": [
+      "modern alternative rock"
+    ],
+    "id": "4olE3I5QU0dvSR7LIpqTXc",
+    "name": "WATT",
+    "popularity": 57
+  },
+  {
+    "followers": 224061,
+    "genres": [
+      "german dance",
+      "pop dance",
+      "pop edm",
+      "uk dance"
+    ],
+    "id": "0u6GtibW46tFX7koQ6uNJZ",
+    "name": "Topic",
+    "popularity": 71
+  },
+  {
+    "followers": 51176,
+    "genres": [
+      "pop dance",
+      "scandipop"
+    ],
+    "id": "5Wg2b4Mp42gicxEeDNawf7",
+    "name": "A7S",
+    "popularity": 65
+  },
+  {
+    "followers": 5335135,
+    "genres": [
+      "pop venezolano",
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "5H1nN1SzW0qNeUEZvuXjAj",
+    "name": "Danny Ocean",
+    "popularity": 74
+  },
+  {
+    "followers": 11213537,
+    "genres": [
+      "detroit hip hop",
+      "hip hop",
+      "pop rap",
+      "r&b",
+      "rap",
+      "trap"
+    ],
+    "id": "0c173mlxpT3dSFRgMO8XPh",
+    "name": "Big Sean",
+    "popularity": 74
+  },
+  {
+    "followers": 12395,
+    "genres": [
+      "funktronica"
+    ],
+    "id": "4A0TivfinfALCAMJqqjZIk",
+    "name": "Funk Wav",
+    "popularity": 62
+  },
+  {
+    "followers": 3282719,
+    "genres": [
+      "folk-pop",
+      "neo mellow"
+    ],
+    "id": "0gadJ2b9A4SKsB1RFkBb66",
+    "name": "Passenger",
+    "popularity": 70
+  },
+  {
+    "followers": 2327157,
+    "genres": [
+      "australian pop"
+    ],
+    "id": "2AsusXITU8P25dlRNhcAbG",
+    "name": "Gotye",
+    "popularity": 65
+  },
+  {
+    "followers": 412506,
+    "genres": [
+      "bergen indie",
+      "electropop",
+      "nz pop"
+    ],
+    "id": "6hk7Yq1DU9QcCCrz9uc0Ti",
+    "name": "Kimbra",
+    "popularity": 65
+  },
+  {
+    "followers": 4116049,
+    "genres": [
+      "disco",
+      "funk",
+      "jazz funk",
+      "soul"
+    ],
+    "id": "4QQgXkCYTt3BlENzhyNETg",
+    "name": "Earth, Wind & Fire",
+    "popularity": 70
+  },
+  {
+    "followers": 7869373,
+    "genres": [
+      "dance pop",
+      "pop",
+      "pop rap"
+    ],
+    "id": "1yxSLGMDHlW21z4YXirZDS",
+    "name": "Black Eyed Peas",
+    "popularity": 77
+  },
+  {
+    "followers": 82840,
+    "genres": [
+      "gauze pop"
+    ],
+    "id": "0CjWKoS55T7DOt0HJuwF1H",
+    "name": "Bipolar Sunshine",
+    "popularity": 57
+  },
+  {
+    "followers": 5313345,
+    "genres": [
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "5hdhHgpxyniooUiQVaPxQ0",
+    "name": "Nio Garcia",
+    "popularity": 68
+  },
+  {
+    "followers": 2456566,
+    "genres": [
+      "reggaeton",
+      "reggaeton flow",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "1fux65HMCBvfJHqlBc4Nno",
+    "name": "Casper Magico",
+    "popularity": 66
+  },
+  {
+    "followers": 16293043,
+    "genres": [
+      "girl group",
+      "pop",
+      "talent show"
+    ],
+    "id": "1l8Fu6IkuTP0U5QetQJ5Xt",
+    "name": "Fifth Harmony",
+    "popularity": 66
+  },
+  {
+    "followers": 517271,
+    "genres": [
+      "dutch pop"
+    ],
+    "id": "3klZnJvYGIbWritVwQD434",
+    "name": "Duncan Laurence",
+    "popularity": 64
+  },
+  {
+    "followers": 790323,
+    "genres": [
+      "melodic rap"
+    ],
+    "id": "7uaIm6Pw7xplS8Dy06V6pT",
+    "name": "Trevor Daniel",
+    "popularity": 62
+  },
+  {
+    "followers": 61209,
+    "genres": [
+      "canadian old school hip hop",
+      "reggae fusion"
+    ],
+    "id": "3uZFBSsMiooimnprFL9jD1",
+    "name": "Snow",
+    "popularity": 59
+  },
+  {
+    "followers": 3845153,
+    "genres": [
+      "pop",
+      "pop dance",
+      "tropical house",
+      "uk dance"
+    ],
+    "id": "1HBjj22wzbscIZ9sEb5dyf",
+    "name": "Jonas Blue",
+    "popularity": 72
+  },
+  {
+    "followers": 11412,
+    "genres": [],
+    "id": "2zzpznMuhKlKlqh1ma7Sms",
+    "name": "Dakota",
+    "popularity": 58
+  },
+  {
+    "followers": 5032,
+    "genres": [],
+    "id": "4VZY0nxYMSNotbS7WjNVQy",
+    "name": "Nyla",
+    "popularity": 57
+  },
+  {
+    "followers": 139295,
+    "genres": [
+      "afrobeats",
+      "azonto"
+    ],
+    "id": "374sWpAJsbZckf98df2jJJ",
+    "name": "Fuse ODG",
+    "popularity": 59
+  },
+  {
+    "followers": 1378681,
+    "genres": [
+      "dance pop",
+      "pop",
+      "pop dance",
+      "pop rap"
+    ],
+    "id": "2KsP6tYLJlTBvSUxnwlVWa",
+    "name": "Mike Posner",
+    "popularity": 66
+  },
+  {
+    "followers": 359038,
+    "genres": [
+      "pop dance"
+    ],
+    "id": "5iNrZmtVMtYev5M9yoWpEq",
+    "name": "Seeb",
+    "popularity": 64
+  },
+  {
+    "followers": 618574,
+    "genres": [
+      "reggae fusion"
+    ],
+    "id": "5MouCg6ta7zAxsfMEbc1uh",
+    "name": "OMI",
+    "popularity": 61
+  },
+  {
+    "followers": 7145655,
+    "genres": [
+      "album rock",
+      "classic rock",
+      "mellow gold",
+      "rock"
+    ],
+    "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+    "name": "Dire Straits",
+    "popularity": 73
+  },
+  {
+    "followers": 5964469,
+    "genres": [
+      "chicago rap",
+      "conscious hip hop",
+      "hip hop",
+      "pop rap",
+      "rap"
+    ],
+    "id": "1anyVhU62p31KFi8MEzkbf",
+    "name": "Chance the Rapper",
+    "popularity": 71
+  },
+  {
+    "followers": 1014971,
+    "genres": [
+      "melodic rap",
+      "slap house"
+    ],
+    "id": "0H39MdGGX6dbnnQPt6NQkZ",
+    "name": "SAINt JHN",
+    "popularity": 65
+  },
+  {
+    "followers": 202816,
+    "genres": [
+      "electro house",
+      "pop dance",
+      "slap house"
+    ],
+    "id": "5rGrDvrLOV2VV8SCFVGWlj",
+    "name": "Imanbek",
+    "popularity": 69
+  },
+  {
+    "followers": 1851223,
+    "genres": [
+      "pop reggaeton",
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
+    ],
+    "id": "0GM7qgcRCORpGnfcN2tCiB",
+    "name": "Tainy",
+    "popularity": 77
+  },
+  {
+    "followers": 2429700,
+    "genres": [
+      "escape room",
+      "hip hop",
+      "indie soul",
+      "neo soul"
+    ],
+    "id": "3jK9MiCrA42lLAdMGUZpwa",
+    "name": "Anderson .Paak",
+    "popularity": 74
+  },
+  {
+    "followers": 843231,
+    "genres": [
+      "neo soul"
+    ],
+    "id": "6PvvGcCY2XtUcSRld1Wilr",
+    "name": "Silk Sonic",
+    "popularity": 69
+  },
+  {
+    "followers": 3198022,
+    "genres": [
+      "deep underground hip hop",
+      "kentucky hip hop",
+      "pop rap",
+      "rap"
+    ],
+    "id": "2LIk90788K0zvyj2JJVwkJ",
+    "name": "Jack Harlow",
+    "popularity": 83
+  },
+  {
+    "followers": 2104520,
+    "genres": [
+      "canadian hip hop"
+    ],
+    "id": "4rTv3Ejc7hKMtmoBOK1B4T",
+    "name": "Ali Gatie",
+    "popularity": 66
+  },
+  {
+    "followers": 29560961,
+    "genres": [
+      "r&b",
+      "soul"
+    ],
+    "id": "3fMbdgg4jU18AjLCKBhRSm",
+    "name": "Michael Jackson",
+    "popularity": 80
+  },
+  {
+    "followers": 2863979,
+    "genres": [
+      "australian pop",
+      "pop"
+    ],
+    "id": "3QSQFmccmX81fWCUSPTS7y",
+    "name": "Dean Lewis",
+    "popularity": 73
+  },
+  {
+    "followers": 7306862,
+    "genres": [
+      "acoustic pop",
+      "dance pop",
+      "neo mellow",
+      "pop"
+    ],
+    "id": "4phGZZrJZRo4ElhRtViYdl",
+    "name": "Jason Mraz",
+    "popularity": 70
+  },
+  {
+    "followers": 4628898,
+    "genres": [
+      "classic rock",
+      "mellow gold",
+      "rock"
+    ],
+    "id": "4STHEaNw4mPZ2tzheohgXB",
+    "name": "Paul McCartney",
+    "popularity": 72
+  },
+  {
+    "followers": 655036,
+    "genres": [
+      "edm",
+      "pop dance"
+    ],
+    "id": "6t1gpxYbY8OlLA7D2RiikQ",
+    "name": "Loud Luxury",
+    "popularity": 67
+  },
+  {
+    "followers": 28220,
+    "genres": [
+      "dance pop",
+      "pop dance"
+    ],
+    "id": "5uEeqYFuIChoWKy34jp8xE",
+    "name": "Brando",
+    "popularity": 63
+  },
+  {
+    "followers": 11735888,
+    "genres": [
+      "dance pop",
+      "pop"
+    ],
+    "id": "2gsggkzM5R49q6jpPvazou",
+    "name": "Jessie J",
+    "popularity": 69
+  },
+  {
+    "followers": 6207570,
+    "genres": [
+      "irish singer-songwriter",
+      "modern rock",
+      "pov: indie"
+    ],
+    "id": "2FXC3k01G6Gw61bmprjgqS",
+    "name": "Hozier",
+    "popularity": 81
+  },
+  {
+    "followers": 934446,
+    "genres": [
+      "edm",
+      "pop dance",
+      "uk dance"
+    ],
+    "id": "7keGfmQR4X5w0two1xKZ7d",
+    "name": "Kungs",
+    "popularity": 68
+  },
+  {
+    "followers": 82631,
+    "genres": [
+      "bboy",
+      "instrumental funk"
+    ],
+    "id": "726MxZBpkxnnoKl6aN7mmj",
+    "name": "Cookin' On 3 Burners",
+    "popularity": 58
+  },
+  {
+    "followers": 8238787,
+    "genres": [
+      "houston rap",
+      "pop",
+      "r&b",
+      "rap",
+      "trap queen"
+    ],
+    "id": "181bsRPaVXVlUKXrxwZfHK",
+    "name": "Megan Thee Stallion",
+    "popularity": 75
+  },
+  {
+    "followers": 240395,
+    "genres": [
+      "house",
+      "pop dance",
+      "uk dance"
+    ],
+    "id": "5EehXjjMktLuJmbRsM7YfB",
+    "name": "Disciples",
+    "popularity": 59
+  },
+  {
+    "followers": 282905,
+    "genres": [
+      "house",
+      "pop dance",
+      "uk contemporary r&b",
+      "uk dance",
+      "uk pop"
+    ],
+    "id": "7uMh23xWiuR7zsNkuNcm2G",
+    "name": "MNEK",
+    "popularity": 66
+  },
+  {
+    "followers": 812301,
+    "genres": [
+      "eurodance",
+      "italo dance"
+    ],
+    "id": "1OAjDaKgg00KCUYqDe68un",
+    "name": "Gigi D'Agostino",
+    "popularity": 66
+  }
+]
